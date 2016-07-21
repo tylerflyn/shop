@@ -1,5 +1,3 @@
 # shop
 
-# Using ThinkPHP
-
-company with mr gao
+CC By Dickens Gao and Tyler.
