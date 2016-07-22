@@ -1,0 +1,36 @@
+[ 2016-07-22T15:39:47+08:00 ] ::1 /git/shop/Public/Home/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000801s ]
+ERR: 无法加载模块:Public
+
+[ 2016-07-22T15:40:20+08:00 ] ::1 /git/shop/Public/Home/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001160s ]
+ERR: 无法加载模块:Public
+
+[ 2016-07-22T15:40:49+08:00 ] ::1 /git/shop/Public/Home/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000941s ]
+ERR: 无法加载模块:Public
+
+[ 2016-07-22T15:41:18+08:00 ] ::1 /git/shop/Public/Home/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000754s ]
+ERR: 无法加载模块:Public
+
+[ 2016-07-22T15:41:24+08:00 ] ::1 /git/shop/Public/Home/main.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001129s ]
+ERR: 无法加载模块:Public
+
+[ 2016-07-22T18:08:28+08:00 ] ::1 /git/shop/Public/Home/img/index/logo.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001126s ]
+ERR: 无法加载模块:Public
+
