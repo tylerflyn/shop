@@ -1,3 +1,7 @@
-﻿## 简介
+﻿# 商城练手--基于ThinkPHP框架
 
-#这是一个基于thinkphp开发的商城，练习用，必要时可能运营起来，所有权归属本项目开发者
+## Author
+
+- Dickens Gao
+
+- Tyler Tan
